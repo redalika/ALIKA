@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<company>
+	<staff>
+		<firstname>Khandakar</firstname>
+		<lastname>Razzakul Haque</lastname>
+		<nickname>Khandakar</nickname>
+		<salary>100000</salary>
+	</staff>
+	<staff>
+		<firstname>Kamrul</firstname>
+		<lastname>Hasan</lastname>
+		<nickname>Kamrul</nickname>
+		<salary>200000</salary>
+	</staff>
+</company>
